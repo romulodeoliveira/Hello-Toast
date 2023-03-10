@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloToast</string>
+    <string name="top_button">Botão de Cima</string>
+    <string name="bottom_button">Botão de Baixo</string>
+</resources>
