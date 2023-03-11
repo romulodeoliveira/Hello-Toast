@@ -25,7 +25,7 @@
         android:id="@+id/button_bottom"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:text="@string/top_button"
+        android:text="@string/bottom_button"
         android:textColor="@color/black"
         android:onClick="countUp"
         app:layout_constraintBottom_toBottomOf="parent"
