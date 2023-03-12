@@ -14,6 +14,9 @@
 Um aplicativo de introdução ao desenvolvimento para Android com java.
 
 <br>
+<a href="https://developer.android.com/courses/fundamentals-training/overview-v2?authuser=4&hl=pt-br">ROADMAP</a>: Unidade 1 - primeiros passos.
+
+<br>
 <br>
 <div align="center">
     <img src="https://github.com/romulodeoliveira/Hello-Toast/blob/main/readmeimg/img1.png">
